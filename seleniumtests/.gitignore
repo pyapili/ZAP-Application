@@ -1,0 +1,13 @@
+test-output/
+target/
+build/
+bin/
+*.jar
+.project
+.classpath
+chromedriver.log
+.idea/
+.settings/
+velocity.log
+seleniumtests.iml
+*.DS_Store
